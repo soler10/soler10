@@ -10,6 +10,7 @@
   🦊 training --> Code to train the YOLO_v5 algorithm so it can be implemented on the "realsense" project <br><br>
   🐼 image_loc --> Project to compute a distance from the camera to an especific object using an RGBD camera <br><br>
   🐯 MPC_robotic_leg_step  --> Model Predictive Control (MPC) of the optimal step of a robotic dog<br> <br> 
+  🐭 song_recommender  --> By using the library spotipy and data of the songs listened, the alorithms create profiles and recommend new songs
 </h4>
   
   
