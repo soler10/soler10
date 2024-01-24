@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abril</h1>
 <h3 align="center">Feel free to use or share any of the respositories!👯</h3>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_423_752/0/1694701932900?e=1711584000&v=beta&t=MLpX8iUEQ6Ip_Mg_3l2qC8ZEBdb6HKEBqomCi4UcLa0">
 
 - 📫 How to reach me **abrilsoler10@gmail.com**
 
