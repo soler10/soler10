@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_423_752/0/1694701932900?e=1711584000&v=beta&t=MLpX8iUEQ6Ip_Mg_3l2qC8ZEBdb6HKEBqomCi4UcLa0">
 
-<h3 align="left">Here you will fins projects of machine learning, image recognition, robotics and model predictive control among others.<br>👯👯👯<br><br></h3>
+<h3 align="left">Here you will find projects of machine learning, image recognition, robotics and model predictive control among others.<br>👯👯👯<br><br></h3>
 <h4 align="left"> 🐶 dmp_ur3_robot_learning   ➡️   Dynamic Movement Primitives (DMPs) for a UR3 robot <br><br>
   🐱 realsense --> Complete Package to open the realsense RGBD camera, launch a YOLO detection (trained to work on vineyards)<br><br>
   🦊 training --> Code to train the YOLO_v5 algorithm so it can be implemented on the "realsense" project <br><br>
